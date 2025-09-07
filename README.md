@@ -63,8 +63,8 @@ The focus was on learning **data handling, predictive modeling, and classificati
 ## 📊 Internship Details
 - **Company:** Alpixn Technologies Pvt. Ltd.
 - **Role:** AI/ML Developer Intern
-- **Duration:** 2 Months
-- **Projects Completed:** 3
+- **Duration:** 3 Months
+- **Projects Completed:** 2
   - Sales Prediction (Rossmann Dataset)
   - AI Suggestions Panel
 
